@@ -36,4 +36,6 @@
 ### Run gpupdate /force
 `gpupdate /force`
 
-> All other batch files run similar commands that are featured.
+---
+
+> **All other batch files run similar commands that are featured.**
